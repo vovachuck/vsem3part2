@@ -58,7 +58,13 @@ public class Main {
         System.out.println(totalIncome);
         System.out.println(cheapestSeat);
         System.out.println(expensiveSeat);
-        //System.out.println(mostCommonPassenger);
         System.out.println(averagePrice);
     }
+    /*Output:
+        Vova=2
+        729.0
+        5
+        12
+        72.9
+    */
 }
